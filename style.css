@@ -43,3 +43,17 @@ body{
 
 }
 
+
+.description{
+
+    padding: 1%;
+    width: 100%;
+}
+
+.para{
+
+    text-align: center;
+    font-weight: 600;
+}
+
+
